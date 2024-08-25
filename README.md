@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ciphos-op
-- 👀 I’m interested in: Coding, Gravity Falls, and Ciphers!
+- 👀 I’m interested in: Coding, Gravity Falls, Ciphers, and Operating systems!
 - 🌱 I’m currently learning: how to make my own Linux Distro [CipherOS]
 - 💞️ I’m looking to collaborate on: nothing.
 - 📫 How to reach me: Youtube @GlooberGleebl
